@@ -24,7 +24,7 @@ Note: This tool is only for A8 to A11 devices (older iPhones and iPads).<br><br>
 
 ![image](https://github.com/user-attachments/assets/6ae0c4cc-c849-49cf-b4cc-655758c3aa3f)
 
-📥 <a href="https://xookz.com/redansa/#redensa-btn">Install Challex Retriever</a> 📥
+📥 <a href="https://pangu8.com/ios-18-2-jailbreak/#challex">Install Challex Retriever</a> 📥
 
 </div>
 
