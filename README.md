@@ -23,6 +23,20 @@ Palera1n virtual terminal jailbreak represents an best online solution for the n
 
 <hr>
 
+### 2. `Neko Jailbreak for iOS 18.2`:
+
+Neko Jailbreak is an online tool compatible with iOS 18.2 beta and earlier versions. You can download the NekoJB utility from this page to install popular package managers like Cydia, Zebra, or Sileo on your iOS 18.2 beta device. This solution is also fully supported on iPadOS 18.2 beta.
+
+<div align="center">
+
+![image](https://github.com/Future-Jailbreak/ios-17-6-jailbreak/assets/172568410/4c03dded-9035-4a10-b8b2-255b3878d678)
+
+
+
+</div>
+
+<hr>
+
 ### 2. `Challex Retriever`:
 
 Challex Retriever is a new app installer for jailbreaking iOS 18.2. It’s easy to use and lets you download many popular apps, tweaks, and custom themes. You can install apps quickly by dragging them to the right side of your screen with its Slide feature.
