@@ -29,8 +29,7 @@ Neko Jailbreak is an online tool compatible with iOS 18.2 beta and earlier versi
 
 <div align="center">
 
-![image](https://github.com/Future-Jailbreak/ios-17-6-jailbreak/assets/172568410/4c03dded-9035-4a10-b8b2-255b3878d678)
-
+![image](https://github.com/user-attachments/assets/26ef92d6-86bb-44b3-8190-9d9b82ce7fcf)
 
 
 </div>
