@@ -17,7 +17,7 @@ Palera1n virtual terminal jailbreak represents an best online solution for the n
 
 ![image](https://github.com/Future-Jailbreak/ios-17-6-jailbreak/assets/172568410/4c03dded-9035-4a10-b8b2-255b3878d678)
 
-<hide>📥 <a href="https://xookz.com/palerain-jailbreak/#palera1nvirtual">Install Palera1n Virtual Terminal Jailbreak</a> 📥</hide>
+
 
 </div>
 
@@ -29,7 +29,7 @@ Palera1n virtual terminal jailbreak represents an best online solution for the n
 
 ![image](https://github.com/user-attachments/assets/6ae0c4cc-c849-49cf-b4cc-655758c3aa3f)
 
-📥 <a href="https://pangu8.com/ios-18-2-jailbreak/#challex">Install Challex Retriever</a> 📥
+
 
 </div>
 
@@ -45,7 +45,7 @@ Challex Retriever is a new app installer for jailbreaking iOS 18.2. It’s easy 
 
 ![image](https://github.com/Future-Jailbreak/ios-17-6-jailbreak/assets/172568410/6ad347aa-ac2b-4bd6-b085-a09e8c6743b0)
 
-📥 <a href="https://xookz.com/redansa/#redensa-btn">Install Redensa</a> 📥
+
 
 </div>
 
@@ -61,7 +61,7 @@ Sileem first came out for iOS 16 and has been updated for every new iOS version.
 
 ![image](https://github.com/Future-Jailbreak/ios-17-6-jailbreak/assets/172568410/487ee748-644c-4346-8529-44326165e245)
 
-📥 <a href="https://xookz.com/sileem/#btn">Install Sileem</a> 📥
+
 
 </div>
 
@@ -73,7 +73,7 @@ Unc0ver Black edition serves as an alternative to the Unc0ver semi-tethered jail
 
 ![image](https://github.com/Future-Jailbreak/ios-17-6-jailbreak/assets/172568410/993ecfdb-56d4-458b-aba8-feda452e1274)
 
-📥 <a href="https://xookz.com/uncover-black-edition/#btn">Install Unc0ver Black Edition</a> 📥
+
 
 </div>
 
@@ -85,7 +85,7 @@ Checkrain Mirror has been introduced as a fresh jailbreak solution for iOS 17, c
 
 ![image](https://github.com/Future-Jailbreak/ios-17-6-jailbreak/assets/172568410/ec52df1d-be35-41ea-a6a6-84ae2fea9971)
 
-📥 <a href="https://pangu8.com/checkrain-mirror-guide/">Install Checkra1n Mirror</a> 📥
+
 
 </div>
 
