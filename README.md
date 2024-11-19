@@ -17,7 +17,7 @@ Palera1n virtual terminal jailbreak represents an best online solution for the n
 
 ![image](https://github.com/Future-Jailbreak/ios-17-6-jailbreak/assets/172568410/4c03dded-9035-4a10-b8b2-255b3878d678)
 
-📥 <a href="https://xookz.com/palerain-jailbreak/#palera1nvirtual">Install Palera1n Virtual Terminal Jailbreak</a> 📥
+<hide>📥 <a href="https://xookz.com/palerain-jailbreak/#palera1nvirtual">Install Palera1n Virtual Terminal Jailbreak</a> 📥</hide>
 
 </div>
 
