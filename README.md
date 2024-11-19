@@ -27,8 +27,7 @@ Palera1n virtual terminal jailbreak represents an best online solution for the n
 
 <div align="center">
 
-![image](https://github.com/user-attachments/assets/6ae0c4cc-c849-49cf-b4cc-655758c3aa3f)
-
+  ![image](https://github.com/user-attachments/assets/e6a66925-9cf3-44fc-b379-59aec967ee02)
 
 
 </div>
