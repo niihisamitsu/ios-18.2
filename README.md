@@ -49,6 +49,9 @@ Challex Retriever is a new app installer for jailbreaking iOS 18.2. It’s easy 
 </div>
 
 Redensa is the first terminal-based Jailbreak app installer for iOS 18.2, compatible with all iPhone and iPad models. With Redensa, you can do more than just install Jailbreak apps. You can also change default iOS settings, install third-party apps and themes, and even Jailbreak web tools like ChatGPT.
+<br>
+
+<hr>
 
 ### 4. `Sileem Repo Extractor for iOS 18.2`:
 
@@ -63,7 +66,9 @@ Sileem first came out for iOS 16 and has been updated for every new iOS version.
 
 
 </div>
+<br>
 
+<hr>
 ### 5. `Unc0ver Black Edition for iOS 18.2`:
 
 Unc0ver Black edition serves as an alternative to the Unc0ver semi-tethered jailbreak tool. While Unc0ver semi-tethered jailbreak supports iOS versions from iOS 11 to iOS 14.8, Unc0ver Black edition is latest online jailbreak tool for iOS 16 to iOS 18.2, and iOS 18.2 beta jailbreaks. It's also fully compatible with the latest iPhone models, including iPhone 15 devices.
@@ -75,7 +80,9 @@ Unc0ver Black edition serves as an alternative to the Unc0ver semi-tethered jail
 
 
 </div>
+<br>
 
+<hr>
 ### 6. `Checkra1n Mirror for iOS 18.2`:
 
 Checkrain Mirror has been introduced as a fresh jailbreak solution for iOS 17, currently supporting iOS 18.2. This method employs a unique approach to install Cydia on your device. First, you generate a Checkrain Mirror code using the CodeGen application, which then installs a lite version of Cydia.
