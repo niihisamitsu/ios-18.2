@@ -25,20 +25,22 @@ Palera1n virtual terminal jailbreak represents an best online solution for the n
 
 ### 2. `Challex Retriever`:
 
+Challex Retriever is a new app installer for jailbreaking iOS 18.2. It’s easy to use and lets you download many popular apps, tweaks, and custom themes. You can install apps quickly by dragging them to the right side of your screen with its Slide feature.
+
 <div align="center">
 
 ![image](https://github.com/user-attachments/assets/7332a00d-bfb8-4775-a089-e0eb0b5a4219)
 
 
 </div>
-
-Challex Retriever is a new app installer for jailbreaking iOS 18.2. It’s easy to use and lets you download many popular apps, tweaks, and custom themes. You can install apps quickly by dragging them to the right side of your screen with its Slide feature.
 <br>
 
 <hr>
 
 
 ### 3. `Redensa for iOS 18.2`:
+
+Redensa is the first terminal-based Jailbreak app installer for iOS 18.2, compatible with all iPhone and iPad models. With Redensa, you can do more than just install Jailbreak apps. You can also change default iOS settings, install third-party apps and themes, and even Jailbreak web tools like ChatGPT.
 
 <div align="center">
 
@@ -48,7 +50,6 @@ Challex Retriever is a new app installer for jailbreaking iOS 18.2. It’s easy 
 
 </div>
 
-Redensa is the first terminal-based Jailbreak app installer for iOS 18.2, compatible with all iPhone and iPad models. With Redensa, you can do more than just install Jailbreak apps. You can also change default iOS settings, install third-party apps and themes, and even Jailbreak web tools like ChatGPT.
 <br>
 
 <hr>
