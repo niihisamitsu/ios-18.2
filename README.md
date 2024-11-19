@@ -69,6 +69,7 @@ Sileem first came out for iOS 16 and has been updated for every new iOS version.
 <br>
 
 <hr>
+
 ### 5. `Unc0ver Black Edition for iOS 18.2`:
 
 Unc0ver Black edition serves as an alternative to the Unc0ver semi-tethered jailbreak tool. While Unc0ver semi-tethered jailbreak supports iOS versions from iOS 11 to iOS 14.8, Unc0ver Black edition is latest online jailbreak tool for iOS 16 to iOS 18.2, and iOS 18.2 beta jailbreaks. It's also fully compatible with the latest iPhone models, including iPhone 15 devices.
@@ -83,6 +84,7 @@ Unc0ver Black edition serves as an alternative to the Unc0ver semi-tethered jail
 <br>
 
 <hr>
+
 ### 6. `Checkra1n Mirror for iOS 18.2`:
 
 Checkrain Mirror has been introduced as a fresh jailbreak solution for iOS 17, currently supporting iOS 18.2. This method employs a unique approach to install Cydia on your device. First, you generate a Checkrain Mirror code using the CodeGen application, which then installs a lite version of Cydia.
